@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../iphone"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "e commerce website",
+		"liveServer.settings.port": 5501
+	}
+}
